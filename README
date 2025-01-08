@@ -1,0 +1,5 @@
+Very few of these were solved entirely by me without looking at working solutions, or sometimes taking apart a working solution to figure out where mine had gone astray.
+There are references in the notebooks when I've stolen assistance from someone else's solution.
+
+For pathfinding, which is never a strong suit for me, I relied heavily on https://aoc.just2good.co.uk/python/shortest_paths, which has an awesome summary of
+flood fill, BFS, DFS, Dijkstra, and A*. I still have yet to use A* for any problems.
